@@ -1,0 +1,16 @@
+## Interface: 80000
+## Title: EskaTracker - |cffff6a00PetTracker|r
+## Author: Skamer
+## Notes: EskaTracker - |cffff6a00PetTracker|r
+## RequiredDeps: EskaTracker, PetTracker
+## Version: @project-version@
+
+# Theme Files (add new properties)
+Themes\themes.xml
+
+# Core files
+Classes\classes.xml
+EskaTracker_PetTracker.lua
+
+# Options files
+Options\Options.lua

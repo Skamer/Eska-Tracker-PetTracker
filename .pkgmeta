@@ -1,0 +1,9 @@
+package-as: EskaTracker_PetTracker
+
+manual-changelog:
+  filename: Changelog.txt
+  markup-type: creole
+
+required-dependencies:
+  - eskatracker
+  - pettracker
