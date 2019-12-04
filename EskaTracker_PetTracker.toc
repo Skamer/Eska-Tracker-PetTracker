@@ -1,4 +1,4 @@
-## Interface: 80100
+## Interface: 80200
 ## Title: EskaTracker - |cffff6a00PetTracker|r
 ## Author: Skamer
 ## Notes: EskaTracker - |cffff6a00PetTracker|r

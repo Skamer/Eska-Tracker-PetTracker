@@ -90,7 +90,7 @@ function EKT_PET_TRACKER_RELOAD()
   end
 end
 
-__Hook__(PetTracker.Tracker, "Update")
+__SecureHook__(PetTracker.Tracker, "Update")
 function Hook_PetTrackerUpdate()
   _Active = PetJournal:GetCurrentProgress().total > 0
 
@@ -99,3 +99,5 @@ function Hook_PetTrackerUpdate()
     _M:LoadPets()
   end
 end
+
+
